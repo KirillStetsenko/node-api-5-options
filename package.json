@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"async-request": "^1.2.0",
+		"axios": "^1.7.7",
+		"follow-redirects": "^1.15.9",
+		"request": "^2.88.2"
+	}
+}
